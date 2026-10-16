@@ -1,0 +1,7 @@
+month,wheat_yield_t_ha,vegetable_yield_t_ha,fertilizer_cost_inr,labour_cost_inr,market_price_inr_kg,market_supply_index,rainfall_mm
+Jun,3.1,12.0,18000,20000,24,105,92
+Jul,3.3,11.2,19000,21000,22,118,118
+Aug,3.0,10.5,21000,22000,20,132,145
+Sep,3.5,13.1,23000,21500,25,96,77
+Oct,3.7,14.0,26500,22000,29,82,54
+Nov,3.6,13.6,25000,22500,27,90,61
